@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622232595 source:c:\users\tonyc\onedrive\documentos\projetos\c-c++\aula126-136_jogodaforca\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<time.h>
+	<fstream>
+
